@@ -1,4 +1,4 @@
-[Adobe Illustrator - PDF Preset](adobe-illustrator-pdf-win)<br>
+(adobe-illustrator-pdf) Adobe Illustrator - PDF Preset<br>
 Windows: ```\%AppData%\Adobe\Adobe PDF\Settings\```
 
 [Adobe Illustrator - Roland VW Swatches](adobe-illustrator-roland-win)<br>
