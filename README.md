@@ -1,8 +1,8 @@
-[adobe-illustrator-pdf](adobe-illustrator-pdf) (Adobe Illustrator - PDF Preset)<br>
+[Adobe Illustrator - PDF Preset](adobe-illustrator-pdf)<br>
 Windows: ```\%AppData%\Adobe\Adobe PDF\Settings\```
 
-[Adobe Illustrator - Roland VW Swatches](adobe-illustrator-roland-win)<br>
+[Adobe Illustrator - Roland VW Swatches](adobe-illustrator-roland)<br>
 Windows: ```\%AppData%\Adobe\Adobe Illustrator <Version> Settings\en_US\x64\Swatches\```
 
-[Adobe Photoshop - Camera RAW Settings](adobe-photoshop-acr-win)<br>
+[Adobe Photoshop - Camera RAW Settings](adobe-photoshop-acr)<br>
 Windows: ```\%AppData%\Adobe\CameraRaw\Settings\```
