@@ -1,5 +1,7 @@
 Directory structure:
-[adobe-illustrator-pdf-win](https://github.com/sergebro/dotfiles/tree/main/adobe-illustrator-pdf-win) - Adobe Illustrator 2020 (Windows) - Save As PDF Preset. Copy to ```\%AppData%\Adobe\Adobe PDF\Settings\```
+
+[adobe-illustrator-pdf-win](https://github.com/sergebro/dotfiles/tree/main/adobe-illustrator-pdf-win)
+Adobe Illustrator 2020 (Windows) - Save As PDF Preset. Copy to ```\%AppData%\Adobe\Adobe PDF\Settings\```
 
 |Software|Files|Copy to<br>
 |---|---|---|
