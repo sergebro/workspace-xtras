@@ -5,4 +5,4 @@
 |[Adobe Photoshop - Camera RAW Settings](adobe-photoshop-acr-win)|```\%AppData%\Adobe\CameraRaw\Settings\``` (Windows)
 
 [Adobe Illustrator - PDF Preset](adobe-illustrator-pdf-win)<br>
-```\%AppData%\Adobe\Adobe PDF\Settings\``` (Windows)
+Windows - ```\%AppData%\Adobe\Adobe PDF\Settings\```
