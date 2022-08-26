@@ -14,4 +14,4 @@ Location (Windows): ```\%AppData%\Adobe\Adobe Photoshop <version>\Adobe Photosho
 Location (Windows): ```\%AppData%\Adobe\CameraRaw\Settings\```
 
 [Blender - User Preferences](blender-preferences)<br>
-Location (Windows): ```\%AppData%\Adobe\Blender Foundation\Blender\<version>\config\```
+Location (Windows): ```\%AppData%\Blender Foundation\Blender\<version>\config\```
