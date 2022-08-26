@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings id="2.0">
+  <settings>
+    <child key="Window Positions">
+      <child key="Docking Windows">
+        <entry key="Major version">4</entry>
+        <entry key="Minor version">0</entry>
+        <entry key="ScreenSize">1920,1080</entry>
+        <child key="Dock bars">
+          <child key="1d3d1785-2332-428b-a838-b2fe39ec50f4">
+            <entry key="Visible">1</entry>
+            <entry key="Floating">0</entry>
+            <entry key="Pos">0,0</entry>
+            <entry key="MRUDockPos">0,0,1920,84</entry>
+            <entry key="MRUFloatPos">123,25</entry>
+            <entry key="MRUDockHorz">1920,84</entry>
+            <entry key="MRUDockVert">200,200</entry>
+            <entry key="MRUFloat">602,95</entry>
+          </child>
+          <child key="36ef80fe-7d51-41ee-8044-f17b107309cb">
+            <entry key="MRUFloatPos">133,212</entry>
+            <entry key="MRUDockHorz">203,281</entry>
+            <entry key="MRUDockVert">203,281</entry>
+            <entry key="MRUFloat">211,289</entry>
+          </child>
+          <child key="c9fb93d6-c1ab-4464-ad3a-ed2a8bc1209b">
+            <entry key="MRUFloatPos">76,193</entry>
+            <entry key="MRUDockHorz">163,242</entry>
+            <entry key="MRUDockVert">163,242</entry>
+            <entry key="MRUFloat">171,250</entry>
+          </child>
+          <child key="948d3151-91aa-4959-ad67-bd49fbb24879">
+            <entry key="MRUFloatStyle">4096</entry>
+            <entry key="MRUFloatPos">-2147483648,0</entry>
+            <entry key="MRUDockHorz">200,360</entry>
+            <entry key="MRUDockVert">200,360</entry>
+            <entry key="MRUFloat">208,368</entry>
+          </child>
+          <child key="d3c4a392-88de-4c4f-88a4-ba5636ef7f38">
+            <entry key="Visible">1</entry>
+            <entry key="Floating">0</entry>
+            <entry key="Pos">0,0</entry>
+            <entry key="MRUDockID">59422</entry>
+            <entry key="MRUDockPos">0,0,701,33</entry>
+            <entry key="MRUFloatStyle">4096</entry>
+            <entry key="MRUFloatPos">-2147483648,0</entry>
+            <entry key="MRUDockHorz">701,33</entry>
+            <entry key="MRUDockVert">78,200</entry>
+            <entry key="MRUFloat">400,400</entry>
+          </child>
+          <child key="918191ca-1105-43f9-a34a-dda4276883c1">
+            <entry key="Visible">1</entry>
+            <entry key="Floating">0</entry>
+            <entry key="Pos">701,0</entry>
+            <entry key="MRUDockID">59422</entry>
+            <entry key="MRUDockPos">701,0,1219,33</entry>
+            <entry key="MRUFloatPos">1767,994</entry>
+            <entry key="MRUDockHorz">1219,33</entry>
+            <entry key="MRUDockVert">200,200</entry>
+            <entry key="MRUFloat">389,74</entry>
+          </child>
+          <child key="d03a997e-982f-4d97-bdc0-a82140a3c288">
+            <entry key="Visible">1</entry>
+            <entry key="Floating">0</entry>
+            <entry key="Pos">0,0</entry>
+            <entry key="MRUDockID">59421</entry>
+            <entry key="MRUDockPos">0,0,261,800</entry>
+            <entry key="MRUFloatPos">1884,575</entry>
+            <entry key="MRUDockHorz">200,200</entry>
+            <entry key="MRUDockVert">261,800</entry>
+            <entry key="MRUFloat">400,400</entry>
+          </child>
+          <child key="6ce98039-8546-4b51-9f28-3861405957bd">
+            <entry key="MRUFloatPos">1340,220</entry>
+            <entry key="MRUDockHorz">200,200</entry>
+            <entry key="MRUDockVert">200,200</entry>
+            <entry key="MRUFloat">400,400</entry>
+          </child>
+          <child key="75457e5e-11de-47e7-b86d-bd246e466db4">
+            <entry key="MRUFloatPos">10,131</entry>
+            <entry key="MRUDockHorz">200,200</entry>
+            <entry key="MRUDockVert">200,200</entry>
+            <entry key="MRUFloat">400,400</entry>
+          </child>
+          <child key="2c8df75f-584c-4a5a-8ba7-bcf517fe6aca">
+            <entry key="MRUFloatPos">1247,320</entry>
+            <entry key="MRUDockHorz">200,200</entry>
+            <entry key="MRUDockVert">200,200</entry>
+            <entry key="MRUFloat">400,400</entry>
+          </child>
+          <child key="7491ffac-ebf2-4214-bf42-d3d1e4e0f0e1">
+            <entry key="Visible">1</entry>
+            <entry key="Floating">0</entry>
+            <entry key="Pos">0,0</entry>
+            <entry key="MRUDockID">59420</entry>
+            <entry key="MRUDockPos">0,0,64,800</entry>
+            <entry key="MRUFloatStyle">4096</entry>
+            <entry key="MRUFloatPos">-2147483648,0</entry>
+            <entry key="MRUDockHorz">400,64</entry>
+            <entry key="MRUDockVert">64,800</entry>
+            <entry key="MRUFloat">142,108</entry>
+          </child>
+          <child key="74c70e04-2c83-4715-9485-4cbd05c64be4">
+            <entry key="Visible">1</entry>
+            <entry key="Floating">0</entry>
+            <entry key="Pos">0,83</entry>
+            <entry key="MRUWidth">1953</entry>
+            <entry key="MRUDockPos">0,83,1920,57</entry>
+            <entry key="MRUFloatPos">796,92</entry>
+            <entry key="MRUDockHorz">1920,57</entry>
+            <entry key="MRUDockVert">53,180</entry>
+            <entry key="MRUFloat">414,450</entry>
+          </child>
+          <child key="80ff7867-5b0d-4a44-9cef-bd60028f9ba4">
+            <entry key="MRUDockID">59420</entry>
+            <entry key="MRUFloatPos">1130,434</entry>
+            <entry key="MRUDockVert">29,180</entry>
+            <entry key="MRUFloat">153,90</entry>
+          </child>
+        </child>
+        <child key="Dock sites">
+          <child key="e81b">
+            <entry key="0000">0</entry>
+            <entry key="0001">1d3d1785-2332-428b-a838-b2fe39ec50f4</entry>
+            <entry key="0002">0</entry>
+            <entry key="0003">74c70e04-2c83-4715-9485-4cbd05c64be4</entry>
+            <entry key="0004">0</entry>
+          </child>
+          <child key="e81e">
+            <entry key="0000">0</entry>
+            <entry key="0001">d3c4a392-88de-4c4f-88a4-ba5636ef7f38</entry>
+            <entry key="0002">918191ca-1105-43f9-a34a-dda4276883c1</entry>
+            <entry key="0003">0</entry>
+          </child>
+          <child key="e81c">
+            <entry key="0000">0</entry>
+            <entry key="0001">5347f0f2-19c3-4ed1-9243-e4b8192a5415</entry>
+            <entry key="0002">0</entry>
+            <entry key="0003">7491ffac-ebf2-4214-bf42-d3d1e4e0f0e1</entry>
+            <entry key="0004">0</entry>
+          </child>
+          <child key="e81d">
+            <entry key="0000">0</entry>
+            <entry key="0001">d03a997e-982f-4d97-bdc0-a82140a3c288</entry>
+            <entry key="0002">0</entry>
+          </child>
+        </child>
+      </child>
+    </child>
+    <child key="MainFrame">
+      <entry key="NormalPosition">0,0,1440,759</entry>
+      <entry key="Flags">2</entry>
+      <entry key="ShowCommand">3</entry>
+    </child>
+    <child key="DialogPositions">
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_11013_Rhino Options">
+        <entry key="rectangle">550,178,821,684</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="bac65952-4401-4827-817c-77ccfb8e4866_7000_STL Import Options">
+        <entry key="rectangle">765,393,391,255</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="14d5de39-a978-4b61-8504-af2a208665ed_15000_3DS Import Options">
+        <entry key="rectangle">738,373,445,257</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="67755633-23fd-4ac5-a18c-c1f14f0ab05d_1932_Missing image files">
+        <entry key="rectangle">636,258,648,525</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_334_Selection Menu">
+        <entry key="rectangle">870,560,161,86</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="45871a96-38a2-4d6d-bc80-3b5a40eec1b4_7000_AI Export Options">
+        <entry key="rectangle">714,271,492,402</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_6000_STL Mesh Export Options">
+        <entry key="rectangle">747,412,426,217</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="247c2434-95c3-49df-9b43-fc6747723872_7000_STL Export Options">
+        <entry key="rectangle">732,399,457,243</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="67755633-23fd-4ac5-a18c-c1f14f0ab05d_4094_Image Options">
+        <entry key="rectangle">850,415,221,210</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_228_Check">
+        <entry key="rectangle">521,125,1068,817</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_243_Set Points">
+        <entry key="rectangle">864,413,193,215</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_22077_untitled">
+        <entry key="rectangle">1428,573,132,22</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_257_File Options">
+        <entry key="rectangle">850,429,221,182</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_282_Rhino 7">
+        <entry key="rectangle">829,446,262,148</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_381_Print Setup">
+        <entry key="rectangle">399,202,930,581</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="67755633-23fd-4ac5-a18c-c1f14f0ab05d_1922_Dialog">
+        <entry key="rectangle">807,222,544,581</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="3b2d8652-2a2a-49c7-99ef-9ebc5b7b3b96_7000_untitled">
+        <entry key="rectangle">807,222,544,581</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="67755633-23fd-4ac5-a18c-c1f14f0ab05d_1932_All image files">
+        <entry key="rectangle">636,258,648,525</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_33603_Rhino">
+        <entry key="rectangle">691,404,539,232</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="92ee4846-245c-4609-b6c9-8ae724e1ce70_6000_AI Import Options">
+        <entry key="rectangle">734,340,452,360</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_216_Sweep 2 Rail Options">
+        <entry key="rectangle">1093,276,385,425</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_238_Adjust Surface Blend">
+        <entry key="rectangle">1160,356,322,373</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_213_Sweep 1 Rail Options">
+        <entry key="rectangle">1378,343,385,450</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_282_Objects on Layer">
+        <entry key="rectangle">764,428,393,185</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="16592d58-4a2f-401d-bf5e-3b87741c1b1b_2113_Rhinoceros">
+        <entry key="rectangle">711,440,481,161</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_11013_Document Properties">
+        <entry key="rectangle">550,178,821,684</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="67755633-23fd-4ac5-a18c-c1f14f0ab05d_1954_untitled">
+        <entry key="rectangle">807,222,544,581</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="f293de5c-d1ff-467a-9bd1-cac8ec4b2e6b_1001_untitled">
+        <entry key="rectangle">4,72,199,733</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_228_Object Description">
+        <entry key="rectangle">719,309,482,422</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_220_Done installing plug-ins, press close to continue">
+        <entry key="rectangle">686,328,548,384</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_226_Polygon Mesh Options">
+        <entry key="rectangle">873,230,427,133</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_225_Polygon Mesh Detailed Options">
+        <entry key="rectangle">846,272,427,442</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="67755633-23fd-4ac5-a18c-c1f14f0ab05d_1920_Layer Material">
+        <entry key="rectangle">1152,132,420,716</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_282_PlanarSrf">
+        <entry key="rectangle">806,446,309,148</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_365_Printing">
+        <entry key="rectangle">730,340,461,360</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_235_Patch Surface Options">
+        <entry key="rectangle">1054,248,268,410</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="6bffd0f7-a7e4-4014-b0da-04a4556a9f16_7000_PLY Import Options">
+        <entry key="rectangle">769,432,382,176</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="67755633-23fd-4ac5-a18c-c1f14f0ab05d_1951_untitled">
+        <entry key="rectangle">4,72,199,699</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_237_Surface From Curve Network">
+        <entry key="rectangle">977,339,252,333</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="92ee4846-245c-4609-b6c9-8ae724e1ce70_6000_PDF Import Options">
+        <entry key="rectangle">734,340,452,360</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="78464c2c-9aeb-456e-8c27-865a524f5ca0_215_Undo Multiple">
+        <entry key="rectangle">845,381,230,279</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+      <child key="39a88493-9e97-4f15-bd62-ad25896a2632_6005_DWG/DXF Export Options">
+        <entry key="rectangle">750,424,420,193</entry>
+        <entry key="Font name">Segoe UI</entry>
+        <entry key="Font height">-12</entry>
+      </child>
+    </child>
+  </settings>
+</settings>

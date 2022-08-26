@@ -15,3 +15,9 @@ Location (Windows): ```\%AppData%\Adobe\CameraRaw\Settings\```
 
 [Blender - User Preferences](blender-preferences)<br>
 Location (Windows): ```\%AppData%\Blender Foundation\Blender\<version>\config\```
+
+[Rhino - Settings](rhino-settings)<br>
+Location (Windows): ```\%AppData%\McNeel\Rhinoceros\<version>\settings\```
+
+[Rhino - Settings](rhino-toolbars)<br>
+Location (Windows): ```\%AppData%\McNeel\Rhinoceros\<version>\UI\```
