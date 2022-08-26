@@ -12,3 +12,6 @@ Location (Windows): ```\%AppData%\Adobe\Adobe Photoshop <version>\Adobe Photosho
 
 [Adobe Photoshop - Camera RAW Settings](adobe-photoshop-acr)<br>
 Location (Windows): ```\%AppData%\Adobe\CameraRaw\Settings\```
+
+[Blender - User Preferences](blender-preferences)<br>
+Location (Windows): ```\%AppData%\Adobe\Blender Foundation\Blender\<version>\config\```
